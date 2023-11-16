@@ -1,0 +1,57 @@
+{
+  "groups": [
+    {
+      "name": "alipay",
+      "type": "ltd.newbee.mall.config.AlipayConfig",
+      "sourceType": "ltd.newbee.mall.config.AlipayConfig"
+    },
+    {
+      "name": "project",
+      "type": "ltd.newbee.mall.config.ProjectConfig",
+      "sourceType": "ltd.newbee.mall.config.ProjectConfig"
+    }
+  ],
+  "properties": [
+    {
+      "name": "alipay.alipay-public-key",
+      "type": "java.lang.String",
+      "sourceType": "ltd.newbee.mall.config.AlipayConfig"
+    },
+    {
+      "name": "alipay.app-id",
+      "type": "java.lang.String",
+      "sourceType": "ltd.newbee.mall.config.AlipayConfig"
+    },
+    {
+      "name": "alipay.charset",
+      "type": "java.lang.String",
+      "sourceType": "ltd.newbee.mall.config.AlipayConfig"
+    },
+    {
+      "name": "alipay.format",
+      "type": "java.lang.String",
+      "sourceType": "ltd.newbee.mall.config.AlipayConfig"
+    },
+    {
+      "name": "alipay.gateway",
+      "type": "java.lang.String",
+      "sourceType": "ltd.newbee.mall.config.AlipayConfig"
+    },
+    {
+      "name": "alipay.log-path",
+      "type": "java.lang.String",
+      "sourceType": "ltd.newbee.mall.config.AlipayConfig"
+    },
+    {
+      "name": "alipay.rsa-private-key",
+      "type": "java.lang.String",
+      "sourceType": "ltd.newbee.mall.config.AlipayConfig"
+    },
+    {
+      "name": "alipay.signtype",
+      "type": "java.lang.String",
+      "sourceType": "ltd.newbee.mall.config.AlipayConfig"
+    }
+  ],
+  "hints": []
+}
